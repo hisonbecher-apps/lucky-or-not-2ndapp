@@ -60,7 +60,16 @@ export const SYSTEM_PLAYERS = [
   { id: 'bot_Hison8', name: 'Hison8', isOnline: false, avatarColor: 'bg-cyan-500' },
   { id: 'bot_Angel8', name: 'Angel8', isOnline: true, avatarColor: 'bg-indigo-500' },
   { id: 'bot_Maniac8', name: 'Maniac8', isOnline: false, avatarColor: 'bg-teal-500' },
-  { id: 'bot_Engineer8', name: 'Engineer8', isOnline: true, avatarColor: 'bg-fuchsia-500' }
+  { id: 'bot_Engineer8', name: 'Engineer8', isOnline: true, avatarColor: 'bg-fuchsia-500' },
+  { id: 'bot_Nadir8', name: 'Nadir8', isOnline: true, avatarColor: 'bg-orange-500' },
+  { id: 'bot_Yakup8', name: 'Yakup8', isOnline: false, avatarColor: 'bg-emerald-500' },
+  { id: 'bot_mehmet8', name: 'mehmet8', isOnline: true, avatarColor: 'bg-red-500' },
+  { id: 'bot_ahmet8', name: 'ahmet8', isOnline: false, avatarColor: 'bg-sky-500' },
+  { id: 'bot_H_Efe8', name: 'H_Efe8', isOnline: true, avatarColor: 'bg-violet-500' },
+  { id: 'bot_Azra8', name: 'Azra8', isOnline: false, avatarColor: 'bg-lime-500' },
+  { id: 'bot_Elif8', name: 'Elif8', isOnline: true, avatarColor: 'bg-pink-400' },
+  { id: 'bot_Beyza8', name: 'Beyza8', isOnline: false, avatarColor: 'bg-yellow-500' },
+  { id: 'bot_Busra8', name: 'Busra8', isOnline: true, avatarColor: 'bg-indigo-400' }
 ];
 
 const DEFAULT_BOTS = SYSTEM_PLAYERS.slice(0, 5);

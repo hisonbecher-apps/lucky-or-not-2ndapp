@@ -22,7 +22,7 @@ const waitingQueue: string[] = [];
 const activeGames = new Map<string, any>();
 const pendingBotEvents = new Map<string, any[]>(); // Keyed by user name
 
-const BOT_NAMES = ["Blondie8", "Mydoe8", "Ziverov8", "Matalay8", "Diamond8", "Huson8", "Hison8", "Angel8", "Maniac8", "Engineer8"];
+const BOT_NAMES = ["Blondie8", "Mydoe8", "Ziverov8", "Matalay8", "Diamond8", "Huson8", "Hison8", "Angel8", "Maniac8", "Engineer8", "Nadir8", "Yakup8", "mehmet8", "ahmet8", "H_Efe8", "Azra8", "Elif8", "Beyza8", "Busra8"];
 BOT_NAMES.forEach(name => {
   const botId = `bot_${name}`;
   onlineUsers.set(botId, { id: botId, name: name, socketId: botId });
