@@ -75,6 +75,8 @@ const CoinFlipGame: React.FC<CoinFlipGameProps> = ({ onUseCredit, onShowAd, onPl
       setOpponentScore(0);
       setPlayerChoice(null);
       setOpponentChoice(null);
+      setIsMyTurn(true);
+      setRoundWinner(null);
     } else {
       setGameState('matchmaking');
       findMatch();

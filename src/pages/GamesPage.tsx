@@ -89,7 +89,7 @@ const GamesPage: React.FC<GamesPageProps> = ({
           
           <div className="relative h-full px-6 flex items-center justify-center gap-3">
             <span className="text-white font-black text-[15px] sm:text-lg tracking-tight sm:tracking-wider uppercase drop-shadow-md whitespace-nowrap px-2">
-              GENERATE YOUR LUCKY NUMBERS
+              GENERATE LUCKY NUMBERS
             </span>
           </div>
         </motion.button>
