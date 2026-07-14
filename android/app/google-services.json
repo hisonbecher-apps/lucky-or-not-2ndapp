@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "559705400998",
+    "project_id": "lucky-or-not-47cf5",
+    "storage_bucket": "lucky-or-not-47cf5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559705400998:android:f779fad9c81f6271213667",
+        "android_client_info": {
+          "package_name": "com.hisongamez.luckyornot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559705400998-1kuc6pa9p3nrbbbaeouc0cvjj1mnigel.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hisongamez.luckyornot",
+            "certificate_hash": "c863f31fbbfecbc508701a119fe9f04379ea91b3"
+          }
+        },
+        {
+          "client_id": "559705400998-nu4foumpmudfakjnuom63lkctv4um3cj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2lavpE06APzWmBikS1QaDVtAWf9csXtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559705400998-6i1l08a6abfgholfb1c511dnfjel5s2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
