@@ -88,8 +88,8 @@ const GamesPage: React.FC<GamesPageProps> = ({
           <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,_var(--tw-gradient-stops))] from-white/20 to-transparent" />
           
           <div className="relative h-full px-6 flex items-center justify-center gap-3">
-            <span className="text-white font-black text-[15px] sm:text-lg tracking-tight sm:tracking-wider uppercase drop-shadow-md whitespace-nowrap px-2">
-              GENERATE LUCKY NUMBERS
+            <span className="text-white font-black text-[15px] sm:text-lg tracking-tight sm:tracking-wider uppercase drop-shadow-md whitespace-pre px-2">
+              GENERATE    YOUR    NUMBERS
             </span>
           </div>
         </motion.button>

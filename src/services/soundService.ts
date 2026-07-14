@@ -1,15 +1,15 @@
-const CLICK_SOUND_URL = '/sounds/click.wav';
-const WHEEL_SPIN_SOUND_URL = '/sounds/wheel_spin.wav';
-const BOTTLE_SPIN_SOUND_URL = '/sounds/bottle_spin.wav';
-const BOTTLE_RESULT_SOUND_URL = '/sounds/bottle_result.wav';
-const COIN_FLIP_SOUND_URL = '/sounds/coin_flip.wav';
-const COOKIE_BREAK_SOUND_URL = '/sounds/cookie_break.wav';
-const MUSIC_SOUND_URL = '/sounds/bgm.wav';
-const RPS_ROUND_SOUND_URL = '/sounds/rps_round.wav';
+const CLICK_SOUND_URL = 'sounds/click.wav';
+const WHEEL_SPIN_SOUND_URL = 'sounds/wheel_spin.wav';
+const BOTTLE_SPIN_SOUND_URL = 'sounds/bottle_spin.wav';
+const BOTTLE_RESULT_SOUND_URL = 'sounds/bottle_result.wav';
+const COIN_FLIP_SOUND_URL = 'sounds/coin_flip.wav';
+const COOKIE_BREAK_SOUND_URL = 'sounds/cookie_break.wav';
+const MUSIC_SOUND_URL = 'sounds/bgm.wav';
+const RPS_ROUND_SOUND_URL = 'sounds/rps_round.wav';
 
-const WIN_SOUND_URL = '/sounds/win.wav';
-const LOSE_SOUND_URL = '/sounds/lose.wav';
-const JACKPOT_SOUND_URL = '/sounds/jackpot.wav';
+const WIN_SOUND_URL = 'sounds/win.wav';
+const LOSE_SOUND_URL = 'sounds/lose.wav';
+const JACKPOT_SOUND_URL = 'sounds/jackpot.wav';
 
 class SoundService {
   private clickAudio: HTMLAudioElement | null = null;

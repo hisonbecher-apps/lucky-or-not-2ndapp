@@ -330,7 +330,7 @@ const NumberGeneratorPage: React.FC<NumberGeneratorPageProps> = ({ onBack, onOpe
               className="w-full h-14 bg-emerald-600 hover:bg-emerald-700 text-white font-black rounded-2xl shadow-lg transition-all active:scale-95 flex items-center justify-center gap-3"
             >
               <RotateCcw size={20} />
-              GENERATE LUCKY NUMBERS
+              <span className="whitespace-pre">GENERATE    YOUR    NUMBERS</span>
             </button>
           </div>
         </section>
